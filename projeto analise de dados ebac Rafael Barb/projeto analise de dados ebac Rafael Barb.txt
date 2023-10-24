@@ -1,14 +1,12 @@
 Iniciar um projeto:
 
-# "nome"
+Passo a passo:
 
 1. Encontrar uma problemática da vida real, que reflita as atividades do World Economic Forum e da empresa Salesforce, que tenha uma solução viável através de análise de dados e machine learning, e dissertar justificando a relevância do uso de dados no caso encontrado.
 
 2. Levantar as fontes de dados públicas e não confidenciais e iniciar a coleta de informações. Esse projeto deve ser feito em formato Python através do Google Collab. Utilizar conhecimentos sobre Python, análise de dados, Github, fundamentos matemáticos, estatística e machine learning.
 
 3. Efetuar a análise exploratória de dados levantando os principais pontos relevantes para a solução do caso.
-
-Passo a passo:
 
 4. Construa um aprendizado de máquina ou modelo estatístico.
 
@@ -18,17 +16,17 @@ Passo a passo:
 
 7. Faça a entrega dessa visualização de dados via GitHub. Na sua entrega deve conter uma documentação em formato Markdown ou PDF com os tópicos: Coleta de dados, modelagem e conclusões. 
 
+# "nome do projeto"
 
-While Salesforce and the World Economic Forum (WEF) operate in very different domains, they do share some common challenges that could potentially be addressed through data analysis and machine learning:
+# While Salesforce and the World Economic Forum (WEF) operate in very different domains, they do share some common challenges that could potentially be addressed through data analysis and machine learning:
 
-1. **Data Management**: Both organizations handle vast amounts of data, which can be challenging to manage effectively. Machine learning algorithms can help automate data cleaning, integration, and transformation processes, making it easier to maintain high-quality, up-to-date datasets.
+- **Data Management**: Both organizations handle vast amounts of data, which can be challenging to manage effectively. Machine learning algorithms can help automate data cleaning, integration, and transformation processes, making it easier to maintain high-quality, up-to-date datasets.
 
-2. **Security**: Ensuring the security of their digital platforms and user data is a major concern for both Salesforce and WEF. Data analysis can help identify potential security threats and vulnerabilities, while machine learning can be used to develop more sophisticated threat detection systems.
+- **Security**: Ensuring the security of their digital platforms and user data is a major concern for both Salesforce and WEF. Data analysis can help identify potential security threats and vulnerabilities, while machine learning can be used to develop more sophisticated threat detection systems.
+- **Decision Making**: Both Salesforce and WEF need to make strategic decisions based on complex, multifaceted information. Data analysis can help synthesize this information into actionable insights, while machine learning can be used to develop predictive models that inform future decision-making.
 
-3. **Decision Making**: Both Salesforce and WEF need to make strategic decisions based on complex, multifaceted information. Data analysis can help synthesize this information into actionable insights, while machine learning can be used to develop predictive models that inform future decision-making.
+- **Scalability**: As both organizations continue to grow, they need to ensure that their services can scale to meet increasing demand. Machine learning can help optimize resource allocation, ensuring efficient performance even as the user base expands.
 
-4. **Scalability**: As both organizations continue to grow, they need to ensure that their services can scale to meet increasing demand. Machine learning can help optimize resource allocation, ensuring efficient performance even as the user base expands.
-
-5. **User Engagement**: Both organizations need to keep their users engaged, whether it's businesses using Salesforce's CRM software or participants in WEF's various initiatives. Data analysis can provide insights into user behavior and preferences, informing strategies to boost engagement.
+- **User Engagement**: Both organizations need to keep their users engaged, whether it's businesses using Salesforce's CRM software or participants in WEF's various initiatives. Data analysis can provide insights into user behavior and preferences, informing strategies to boost engagement.
 
 Please note that while data analysis and machine learning offer promising solutions, they should be used responsibly considering ethical implications and potential biases in the data.
